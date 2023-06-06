@@ -90,7 +90,7 @@ div#hospitality {
     padding-right: 8px;
 }
 
-div#terror {
+div#terror, div#nlp_app {
     border-right: 1px dashed black;
     padding-right: 8px;
 }
